@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Build outputs
+build/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Optional: do not ignore release PDFs
+!release/
+!release/**/*.pdf
