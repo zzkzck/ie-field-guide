@@ -1,14 +1,16 @@
 # How to Use This Guide
 
-This guide is not meant to be read like a textbook from the first page to the last page.
+This guide is not meant to be read like a textbook, from the first page to the last page.
 
-You can read it in different ways.
+You can read it in different ways, depending on where you are.
 
 If you are an incoming student, start with the chapters on Year One, programming foundations, and common misconceptions.
 
 If you are already taking core courses, read the sections related to data structures, algorithms, systems, mathematics, and project work.
 
 If you are thinking about research, internships, or career planning, read the later chapters after you have built some technical foundation.
+
+You do not need to understand everything immediately.
 
 The most important thing is not to finish the guide quickly.
 
@@ -56,3 +58,5 @@ A chapter about projects may feel abstract before you have written enough code. 
 You do not need to understand everything at once.
 
 Come back later.
+
+The same chapter may become more useful after one semester, one project, one difficult course, or one failed attempt. That is not a problem. That is how a field guide is supposed to work.
