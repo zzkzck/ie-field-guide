@@ -98,4 +98,3 @@ Decision:
 - Draft materials should be placed under `drafts/`.
 - Raw notes should be placed under `notes/`.
 - Generated PDF files should be placed under `release/`.
-``
