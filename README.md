@@ -70,8 +70,29 @@ Current version: `v0.1-dev`
 
 This project is currently in the initial planning and skeleton-building stage.
 
+## Disclaimer
+
+This project is an informal, student-written guide for educational, reflective, and informational purposes.
+
+It is not an official publication, official curriculum, textbook, complete academic reference, or authoritative source on behalf of any university, department, course, organization, or employer.
+
+No warranty is provided regarding the accuracy, completeness, suitability, or reliability of the content.
+
+Use of this project is at your own discretion.
+
 ## License
 
-This project is planned to be released under a Creative Commons non-commercial license.
+This repository uses separate licenses for content and code.
 
-The exact license is to be decided.
+Unless otherwise stated:
+
+- Written content, including chapters, essays, notes, explanations, figures, diagrams, and generated PDF outputs, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+- Source code, scripts, build configurations, automation files, templates, and other software components are licensed under the **MIT License**.
+
+The public author identity of this project is **ZCK**.
+
+See the following files for details:
+
+- `LICENSE`
+- `LICENSE-CONTENT`
+- `LICENSE-CODE`
