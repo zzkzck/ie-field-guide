@@ -97,4 +97,21 @@ Decision:
 - Main chapters should be written under `manuscript/`.
 - Draft materials should be placed under `drafts/`.
 - Raw notes should be placed under `notes/`.
+<<<<<<< HEAD
 - Generated PDF files should be placed under `release/`.
+=======
+- Generated PDF files should be placed under `release/`.
+
+## 2026-05-21: Course Materials Policy
+
+This repository should not host original lecture slides, tutorial materials, assignment sheets, solutions, marking schemes, lecture recordings, or other restricted course materials unless explicit permission has been granted by the copyright owner.
+
+Course-related notes should be written in the author's own words and used for personal reflection, explanation, and synthesis.
+
+Decision:
+
+- Do not upload original course materials to the public repository.
+- Use `notes/courses/` only for personal notes, reflections, summaries, and self-written explanations.
+- Cite public sources where appropriate.
+- Avoid copying substantial portions of copyrighted materials.
+>>>>>>> main
